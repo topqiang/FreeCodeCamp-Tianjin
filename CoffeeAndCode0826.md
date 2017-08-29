@@ -45,7 +45,7 @@ ______
 
     小伙伴的参与度也是很ok
     
-![](https://github.com/topqiang/FreeCodeCamp-Tianjin/blob/master/IMG_3860.JPG?raw=true)
+![](https://github.com/topqiang/FreeCodeCamp-Tianjin/blob/master/IMG_3865.JPG?raw=true)
 
 关于本次活动内容分享，大家听得也是津津乐道，期间我们也一起停下来互动一下。一起编编码找一找问题的原因。到场的小伙伴也都有所收获。在这里同样也想倡导一下，希望有更多爱分享的朋友能够把自己的所学分享给大家，把问题分享给大家。让我们共同成长！
 
