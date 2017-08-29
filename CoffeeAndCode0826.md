@@ -3,13 +3,14 @@
 > 天津FCC：贾江彦、刘柱、丁明辉、阚自强、于点、宋佳欣
 
 在社区小伙伴的共同努力下我们顺利的举办了这期分享
-![image](http://note.youdao.com/yws/res/839/WEBRESOURCE9eb3f97f8cfc0c3f8815cf998d89e0ae)
+
+![](https://github.com/topqiang/FreeCodeCamp-Tianjin/blob/master/IMG_3876.JPG?raw=true)
 
 ______
 一如既往的活动地址—————天津市西青区海泰南道16号尚赫集团研发基地B座2层（高新区地铁站）
 ______
 
-一直以来都自己沉溺在代码的世界里，希望可以结交更多的同行人跟大家学习交流。同时也希望有机会把所学的和积累的分享给更多的人。一个偶然的机会结识了@Miya姐，··也通过FCC中国这个平台，让更多的人可以在这里无忧无虑的学习，解决问题，找寻志同道合的人，期待着热爱编程的你加入我们！
+一直以来都自己沉溺在代码的世界里，希望可以结交更多的同行人跟大家学习交流。同时也希望有机会把所学的和积累的分享给更多的人。一个偶然的机会结识了@Miya姐，也通过FCC中国这个平台，让更多的人可以在这里无忧无虑的学习，解决问题，找寻志同道合的人，期待着热爱编程的你加入我们！
 
 ### 前期准备
 
@@ -24,7 +25,8 @@ ______
     
 如何让更多的人知道。方便快捷推广，能够让小伙伴第一眼看到我们的主题而且还要让他们可以详细的了解到本次coffee and code 的详细内容。软文加海报相结合这将是我们的主要推广方式。海报的炫酷那是必须的。在此感谢 **@寻找曺圭贤** 不耐其烦的修改。软文的书写在此感谢 **@麻辣香锅** 深夜的耕作。本来是还想加入直播的，但因为工作时间没能很好的对接，表示遗憾。争取下次分享用上。
 (想和我们一起服务大家联系微信：xiaoqiang0672)
-![image](http://note.youdao.com/yws/res/888/WEBRESOURCE253f2acf7e1bfaf383aea135416de7a9)
+
+![](https://github.com/topqiang/FreeCodeCamp-Tianjin/blob/master/IMG_3579.JPG?raw=true)
 
     会前的到场人员通知，也是很重要的
     
@@ -43,9 +45,11 @@ ______
 
     小伙伴的参与度也是很ok
     
-![image](http://note.youdao.com/yws/res/958/WEBRESOURCE1f56194407e3eae0a26b25bbe8f9e4c5)
+![](https://github.com/topqiang/FreeCodeCamp-Tianjin/blob/master/IMG_3860.JPG?raw=true)
+
 关于本次活动内容分享，大家听得也是津津乐道，期间我们也一起停下来互动一下。一起编编码找一找问题的原因。到场的小伙伴也都有所收获。在这里同样也想倡导一下，希望有更多爱分享的朋友能够把自己的所学分享给大家，把问题分享给大家。让我们共同成长！
-![image](http://note.youdao.com/yws/res/965/WEBRESOURCEcbdf9e2f1e3585778dc6d4087a8663f7)
+
+![](https://github.com/topqiang/FreeCodeCamp-Tianjin/blob/master/IMG_3860.JPG?raw=true)
 
 **小零食就不多说了**
 
