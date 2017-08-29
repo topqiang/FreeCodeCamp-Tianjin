@@ -45,7 +45,37 @@ ______
 
     小伙伴的参与度也是很ok
     
-![](https://github.com/topqiang/FreeCodeCamp-Tianjin/blob/master/IMG_3865.JPG?raw=true)
+![](https://github.com/topqiang/FreeCodeCamp-Tianjin/blob/master/IMG_3865.JPG?raw=true)  
+> 第一个小问题闭包  
+![](http://mmbiz.qpic.cn/mmbiz_jpg/meG6Vo0Mevhq6MQY6K2SibDr7bYkicHW3TDhMf2nF44Tb7zfIb3VbLUCUYtibBFZcjZDNLiaZvSEKXNpSX40Ficuarw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)  
+如何输出期望值，现场给出两个答案  
+
+ **答案一：**  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/meG6Vo0Mevhq6MQY6K2SibDr7bYkicHW3ThS1icdBEEznvHxM3RfVDpY5wunHmKlzV3Fgs5gDyichrZeA12rZbF9cA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)  
+
+ **答案二：** 
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/meG6Vo0Mevhq6MQY6K2SibDr7bYkicHW3TopzPbj2SwgDq9PkBwibZIGgPTsuC75N85OZffAE2OuRIibgicm7PbWIBQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)  
+
+> 第二个小问题js的事件循环机制
+
+    setTimeout(function() {
+        console.log('timeout1');
+    })
+    new Promise(function(resolve) {
+        console.log('promise1');
+        for(var i = 0; i < 1000; i++) {
+            i == 99 && resolve();
+        }
+        console.log('promise2');
+    }).then(function() {
+        console.log('then1');
+    })
+    console.log('global1');
+
+答案是什么呢？你猜猜看吧！！
+
 
 关于本次活动内容分享，大家听得也是津津乐道，期间我们也一起停下来互动一下。一起编编码找一找问题的原因。到场的小伙伴也都有所收获。在这里同样也想倡导一下，希望有更多爱分享的朋友能够把自己的所学分享给大家，把问题分享给大家。让我们共同成长！
 
